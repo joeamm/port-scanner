@@ -2,7 +2,7 @@
 
 A fast, beginner-friendly network port scanner that identifies open ports, maps them to known services, and flags potentially dangerous exposures — with a clean color-coded terminal report.
 
-Built as part of a cybersecurity freelance portfolio. Certified via the [Google Cybersecurity Professional Certificate](https://grow.google/certificates/cybersecurity/).
+Built as part of a cybersecurity freelance portfolio.
 
 ---
 
@@ -109,7 +109,7 @@ python port_scanner.py 192.168.1.1
 
 ## About
 
-Built by joeamm — Python developer with a Google Cybersecurity Professional Certificate.  
+Built by joe ammoun — Python developer with a Google Cybersecurity Professional Certificate.  
 Available for freelance security audits, scripting, and automation projects.
 
 💼 [Upwork](https://www.upwork.com/freelancers/~01620d7d3c7e1378b8?mp_source=share)  
