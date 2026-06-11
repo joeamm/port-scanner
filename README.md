@@ -112,6 +112,5 @@ python port_scanner.py 192.168.1.1
 Built by joeamm — Python developer with a Google Cybersecurity Professional Certificate.  
 Available for freelance security audits, scripting, and automation projects.
 
-📧 your@email.com  
 💼 [Upwork](https://www.upwork.com/freelancers/~01620d7d3c7e1378b8?mp_source=share)  
 🔗 [LinkedIn](www.linkedin.com/in/joe-ammoun-019850344)
