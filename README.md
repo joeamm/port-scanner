@@ -109,7 +109,7 @@ python port_scanner.py 192.168.1.1
 
 ## About
 
-Built by joe ammoun — Python developer with a Google Cybersecurity Professional Certificate.  
+Built by joseph ammoun — Python developer with a Google Cybersecurity Professional Certificate.  
 Available for freelance security audits, scripting, and automation projects.
 
 💼 [Upwork](https://www.upwork.com/freelancers/~01620d7d3c7e1378b8?mp_source=share)  
